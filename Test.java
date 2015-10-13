@@ -1,5 +1,3 @@
-package miscelTest;
-// Imports for the GUI classes.
 
 import java.awt.Color;
 import java.awt.Container;
